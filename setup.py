@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'A package that allows to reduce the lines of code some are a
 
 # Setting up
 setup(
-    name="finder",
+    name="finder-vsv170314",
     version=VERSION,
     author="VSV170314 (Vishwa S Vikram)",
     author_email="<mail@vishwa170314.com>",
