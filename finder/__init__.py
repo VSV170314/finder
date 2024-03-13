@@ -1,8 +1,8 @@
-from .finder import *
-from .finder import FindLeapYear
-from .finder import FindSum
-from .finder import FindDifference
-from .finder import FindProduct
-from .finder import FindQuotient
-from .finder import FindDivisibility
-from .finder import FindSum, FindDifference, FindProduct, FindQuotient
+from .finder-vsv170314 import *
+from .finder-vsv170314 import FindLeapYear
+from .finder-vsv170314 import FindSum
+from .finder-vsv170314 import FindDifference
+from .finder-vsv170314 import FindProduct
+from .finder-vsv170314 import FindQuotient
+from .finder-vsv170314 import FindDivisibility
+from .finder-vsv170314 import FindSum, FindDifference, FindProduct, FindQuotient
